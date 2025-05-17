@@ -22,15 +22,14 @@ author:
   avatar           : "profile.png"
   name             : "Yaxi Lv(吕亚茜)"
   bio              : "Inner Mongolia Normal University"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Inner Mongolia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "20248015@imnu.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
